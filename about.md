@@ -4,11 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Hi. I'm a full stack developer in Seattle.
+Hi. I'm a full stack developer in Seattle. You can see some of my recent work [here](https://github.com/derzorngottes).
 
-You can see some of my recent work [here](https://github.com/derzorngottes).
+& etc. &
 
-&&
+1.
+
+The blog title 'unquestioning thought' comes from Robert Walser's 1917 novella _Der Spaziergang_ (_The Walk_):
+
+> As I looked at earth and air and sky the melancholy unquestioning thought came to me that I was a poor prisoner between heaven and earth, that all men were miserably imprisoned in this way ...
+
+Although I'm sure it seems dramatic, it was the shortest clip I could find from Walser's vast and largely irreverent body of work.
+
+2.
 
 I've collected several online handles:
 
