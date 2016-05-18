@@ -10,14 +10,14 @@ I find that sort of thing unappealing, because it falls under the umbrella of tr
 
 Still, several months into my time at Galvanize I have found that one does indeed dream in code. Here are some of the dreams I have encountered:
 
-#### Figuring dreams
+#### Puzzle-solving dreams
 
-These are the most aggravating; I had a lot of them earlier in the program. They generally begin with a late night of coding, right up to turning out the light, and leaving off in the middle of trying to solve a problem. (Maybe git issues/branching explain the recent lack of them?). Instead of being able to fall properly asleep, I drift in and out of conscious for hours, constantly ruminating on the solution to the problem. However I'm not actually conscious, so the solutions slide around just out of grasp.
+These are the most aggravating; I had a lot of them earlier in the program. They generally begin with a late night of coding, right up to turning out the light, and leaving off in the middle of trying to solve a problem. (Maybe getting a good grasp on git issues/branching explains the recent lack of them?). Instead of being able to fall properly asleep, I drift in and out of conscious for hours, constantly ruminating on the solution to the problem. However I'm not actually conscious, so the solutions slide around just out of grasp.
 
 #### Abstract dreams
 
-I've only had one of these.
+I've only had one of these — in it my dream language was synonymous with computer language and I existed in a fluid electronic state, communicating seamlessly with a group of networked intelligent computers. Like a utopic version of _I have no mouth and I must scream_.
 
 #### Solution dreams
 
-I haven't had one of these (of course) but one of my classmates has.
+I haven't had one of these (of course) but one of my classmates has. These dreams are similar to the puzzle-solving dreams, except the solution arrives quickly with a bold, pure aesthetic delivery. Must be nice!
