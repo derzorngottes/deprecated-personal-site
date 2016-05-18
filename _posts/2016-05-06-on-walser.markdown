@@ -1,0 +1,27 @@
+---
+layout: post
+title: Naturalism fails in virtual environments
+---
+When I was a writer (although I still am _sometimes_ a writer) my work environment, tools, and process was not that different than now, when I spend the majority of my time writing, editing, and researching code. In order to accelerate my fluency in computing, I followed the immersion process of foreign-language learning, so that now I primarily read technology news, follow technologists on social media, and consider world issues from a technology standpoint.
+
+One strange thing about working in technology is that, despite its overwhelming similarity to working in media, it feels much more removed from the natural process of being a human in a natural world. This is all more evident in Seattle, where I am surrounded by beautiful natural vistas on every side, and where the combination of temperate rainfall and west-coast sunshine creates an effusion of flowers in the spring time, all over the city.
+
+In publishing I spent roughly the same amount of time indoors as I do now. My workplace had roughly the same amount of plant life (none), I spent the same amount of my free time in nature (very little; I still don't have a car). But now it feels that there is more of a division between work and the natural world.
+
+My family has deep roots in the Lake District of England, where Wordsworth, Coleridge, et al, cemented their reputations by describing and taking inspiration from their natural surroundings. I grew up shuttling between the Yorkshire Dales, the Lakes, and the austere Pennines, where I often roamed with the other village children for hours over the moors (yes, it was idyllic).
+
+When I read Walser, for example:
+
+>Our gaze went down into the valleys and out into the farthest distance, only to tarry in the closest nearness the next moment. You look calmly at the fields, meadows, and mountainsides stretched out at your feet, as though lifeless or asleep. Mist steals through the narrow valleys and the wide valleys, the forests dream, the roofs of the city sparkle blurrily, everything is a soft, pleasant, big, silent dream. Now it looks like the rolling waves of the ocean, now like a cute little toy, now like something infinitely clear again, something that has suddenly become clear.
+
+_Fritz Kocher's Essays, 1904_
+
+I have crystal memories of similar childhood moments, as I'm sure many people do. And even though naturalism has died down in writing, its influence and resonance extend so that all writing, even contemporary minimalist writing, feels vaguely naturalistic in its transportative properties.
+
+The naturalist movement is only just beginning (or is yet to truly begin) in technology. I recently downloaded [_Firewatch_](https://en.wikipedia.org/wiki/Firewatch) which is as close to naturalism as virtual experiences have come. The rendition of light through the leaves of trees, and the way sunlight softly flows through an open meadow are remarkable experiences. But they aren't transportative in the manner of the written word. A necessary function of naturalism is the invocation of nature in the self, in tune with a recognition of the awesomeness/insurmountability of nature itself — something that is difficult to achieve with a pre-rendered environment. The narrative of _Firewatch_ also did not closely intertwine with the setting in the way that the best of naturalist writing does.
+
+I wonder if virtual reality will introduce a more sophisticated naturalism to virtual experience.
+
+>Often the entire countryside of meadows and trees appeared to be wrapped in veils and damp cloths, above and below and in the distance and close at hand everything was gray and wet. You strode through all of this as if through a gloomy dream. And yet even this weather and this particular sort of world expressed a secret gaiety. You could smell the trees you were walking beneath, and hear ripe fruit dropping in the meadows and on the path. Everything seemed to have become doubly and triply quiet. All the sounds seemed to be sleeping, or afraid to ring out.
+
+_The Assistant, 1907_
