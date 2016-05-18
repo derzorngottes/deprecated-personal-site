@@ -6,7 +6,9 @@ permalink: /about/
 
 Hi. I'm a full stack developer in Seattle. You can see some of my recent work [here](https://gist.github.com/derzorngottes/f4c82fb0ef08689516748a48ec914104).
 
-& etc. &
+I dabble in photography and music (primarily synthesis and the theremin). I used to write fiction. I still do, but I used to, too.
+
+&& etc. &&
 
 1.
 
@@ -24,4 +26,4 @@ kavanorama — this name references the midcentury writer Anna Kavan, whose nove
 
 elrey — an anonymous shorthand
 
-derzorngottes — references the film AGUIRRE DER ZORN GOTTES by Werner Herzog (thoughts [here](https://)).
+derzorngottes — references the film AGUIRRE DER ZORN GOTTES by Werner Herzog (thoughts on that in a post TK).
