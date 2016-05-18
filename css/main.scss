@@ -28,7 +28,15 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+.addressContainer, .skillsContainer, .experienceContainer {
+  display: block;
+}
 
+.skillsColumn {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
