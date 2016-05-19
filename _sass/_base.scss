@@ -15,7 +15,6 @@ dl, dd, ol, ul, figure {
  */
 
 html {
-  //background: url(../assets/background.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -26,8 +25,7 @@ html {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background: url(../assets/background.jpg);
-    //background-color: $background-color;
+    background: url(../assets/background8.jpg);
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
