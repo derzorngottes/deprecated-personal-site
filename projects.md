@@ -7,12 +7,13 @@ permalink: /projects/
 <div class='projectDiv'>
   <br>
   <div class='projectInfo'>
-    <h4>derzorngottes.com</h4>
+    <h4><a href='http://www.derzorngottes.com'>derzorngottes.com</a></h4>
 
     <p>Personal/professional website with blog. Implemented using Jekyll and Github Pages. (Pretty meta, huh?)</p>
 
     <span class='githubBtn'><a href='https://github.com/derzorngottes/derzorngottes.github.io'>source code</a></span>
   </div>
+
   <div class='projectImg'>
     <img src='../assets/projectimgs/dzg-site.png' height='200'/>
   </div>
@@ -20,22 +21,28 @@ permalink: /projects/
 
 <div class='projectDiv'>
   <br><br>
+  <div class='projectInfo'>
+    <h4>HIVmedfinder</h4>
 
-  <h4>HIVmedfinder</h4>
+    <p>Simple web app providing low-income/no-insurance HIV patients with access to medication coupons, a locator for low-cost medication, and links to nearby clinics for low-cost treatment.</p>
 
-  <p>Simple web app providing low-income/no-insurance HIV patients with access to medication coupons, a locator for low-cost medication, and links to nearby clinics for low-cost treatment.</p>
+    <span class='githubBtn'><a href='https://github.com/derzorngottes/hivmedguide'>source code</a></span>
+  </div>
 
-  <span class='githubBtn'><a href='https://github.com/derzorngottes/hivmedguide'>source code</a></span>
+  <div class='projectImg'>
+    <img src='../assets/projectimgs/hivmedfinder.png' height='200'/>
+  </div>
 </div>
 
 <div class='projectDiv'>
-  <br><br>
+  <br><br><br>
+  <div>
+    <h4>Library Lookup</h4>
 
-  <h4>Library Lookup</h4>
+    <p>A library system for programming reference guides in which users can view, add, edit and delete metadata for books and authors. Implemented in Node.js using Express, PostgreSQL and Knex.</p>
 
-  <p>A library system for programming reference guides in which users can view, add, edit and delete metadata for books and authors. Implemented in Node.js using Express, PostgreSQL and Knex.</p>
-
-  <span class='githubBtn'><img src='../assets/githublogo.png' height='20'><a href='https://github.com/derzorngottes/library_lookup'> source code</a></span>
+    <span class='githubBtn'><img src='../assets/githublogo.png' height='20'><a href='https://github.com/derzorngottes/library_lookup'> source code</a></span>
+  </div>
 </div>
 
 <div class='projectDiv'>

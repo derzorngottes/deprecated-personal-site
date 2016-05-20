@@ -54,12 +54,17 @@ $on-laptop:        800px;
 .projectDiv {
   display: block;
   clear: both;
+  margin-bottom: 30px;
 }
 
 .projectInfo, .projectImg {
   display: inline-block;
   float: left;
   width: 50%;
+}
+
+.projectImg {
+  padding-left: 10px;
 }
 
 // Use media queries like this:
