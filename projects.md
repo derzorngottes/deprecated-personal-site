@@ -47,15 +47,13 @@ permalink: /projects/
 
 <div class='projectDiv'>
   <br><br>
-
-    <div class='projectInfo'>
+  <div class='projectInfo'>
     <h4><a href='http://finedownvoteme.surge.sh/'>Fine, Downvote Me</a></h4>
 
     <p>Angular.JS clone of the Reddit frontpage.</p>
 
     <span class='githubBtn'><a href='https://github.com/derzorngottes/fine_downvote_me'><img src='../assets/githublogo.png' height='20'> source code</a></span>
   </div>
-
   <div class='projectImg'>
     <img src='../assets/projectimgs/redditclone.png' height='200'/>
   </div>
