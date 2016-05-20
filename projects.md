@@ -22,7 +22,7 @@ permalink: /projects/
 <div class='projectDiv'>
   <br><br>
   <div class='projectInfo'>
-    <h4>HIVmedfinder</h4>
+    <h4><a href='http://hivmedfinder.surge.sh/'>HIVmedfinder</a></h4>
 
     <p>Simple web app providing low-income/no-insurance HIV patients with access to medication coupons, a locator for low-cost medication, and links to nearby clinics for low-cost treatment.</p>
 
