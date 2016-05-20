@@ -41,7 +41,7 @@ permalink: /projects/
 
     <p>A library system for programming reference guides in which users can view, add, edit and delete metadata for books and authors. Implemented in Node.js using Express, PostgreSQL and Knex.</p>
 
-    <span class='githubBtn'><a href='https://github.com/derzorngottes/library_lookup'><img src='../assets/githublogo.png' height='20'> source code</a></span>
+    <span class='githubBtn'><a href='https://github.com/derzorngottes/librarylookup'><img src='../assets/githublogo.png' height='20'> source code</a></span>
   </div>
 </div>
 
