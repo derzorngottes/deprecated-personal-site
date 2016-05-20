@@ -61,12 +61,16 @@ permalink: /projects/
 
 <div class='projectDiv'>
   <br><br>
+  <div class='projectInfo'>
+    <h4><a href='http://undesirable-thunder.surge.sh/'>Pioneer Delivery</a></h4>
 
-  <h4>Pioneer Delivery</h4>
+    <p>A food order interface implemented in jQuery</p>
 
-  <p>A food order interface implemented in jQuery</p>
-
-  <span class='githubBtn'><a href='https://github.com/derzorngottes/pioneer_delivery'><img src='../assets/githublogo.png' height='20'> source code</a></span>
+    <span class='githubBtn'><a href='https://github.com/derzorngottes/pioneer_delivery'><img src='../assets/githublogo.png' height='20'> source code</a></span>
+  </div>
+  <div class='projectImg'>
+    <img src='../assets/projectimgs/eats.png' height='200'/>
+  </div>
 </div>
 
 <div class='projectDiv'>
