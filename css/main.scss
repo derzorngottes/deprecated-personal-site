@@ -38,6 +38,30 @@ $on-laptop:        800px;
   vertical-align: top;
 }
 
+.githubBtn {
+  padding: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: #9CE5F8;
+  border-radius: 10px;
+}
+
+.githubBtn img {
+  padding-bottom: 2px;
+}
+
+.projectDiv {
+  display: block;
+  clear: both;
+}
+
+.projectInfo, .projectImg {
+  display: inline-block;
+  float: left;
+  width: 50%;
+}
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
