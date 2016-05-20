@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi. I'm a full stack developer in Seattle. You can see some of my recent work [here](https://gist.github.com/derzorngottes/f4c82fb0ef08689516748a48ec914104).
+Hi. I'm a full stack developer in Seattle.
+
+I enjoy working on projects that invoke creativity and connection with others. I'm currently studying up on C#/Unity, functional programming, and digital rights. Think we could collaborate? Drop me a line **[here](mailto:amy.conchie@gmail.com)**.
 
 I dabble in photography and music (primarily synthesis and the theremin). I used to write fiction. I still do, but I used to, too.
 

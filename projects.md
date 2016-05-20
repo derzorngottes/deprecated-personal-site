@@ -11,7 +11,7 @@ permalink: /projects/
 
     <p>Personal/professional website with blog. Implemented using Jekyll and Github Pages. (Pretty meta, huh?)</p>
 
-    <span class='githubBtn'><a href='https://github.com/derzorngottes/derzorngottes.github.io'>source code</a></span>
+    <span class='githubBtn'><a href='https://github.com/derzorngottes/derzorngottes.github.io'><img src='../assets/githublogo.png' height='20'> source code</a></span>
   </div>
 
   <div class='projectImg'>
@@ -26,7 +26,7 @@ permalink: /projects/
 
     <p>Simple web app providing low-income/no-insurance HIV patients with access to medication coupons, a locator for low-cost medication, and links to nearby clinics for low-cost treatment.</p>
 
-    <span class='githubBtn'><a href='https://github.com/derzorngottes/hivmedguide'>source code</a></span>
+    <span class='githubBtn'><a href='https://github.com/derzorngottes/hivmedguide'><img src='../assets/githublogo.png' height='20'> source code</a></span>
   </div>
 
   <div class='projectImg'>
@@ -41,7 +41,7 @@ permalink: /projects/
 
     <p>A library system for programming reference guides in which users can view, add, edit and delete metadata for books and authors. Implemented in Node.js using Express, PostgreSQL and Knex.</p>
 
-    <span class='githubBtn'><img src='../assets/githublogo.png' height='20'><a href='https://github.com/derzorngottes/library_lookup'> source code</a></span>
+    <span class='githubBtn'><a href='https://github.com/derzorngottes/library_lookup'><img src='../assets/githublogo.png' height='20'> source code</a></span>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ permalink: /projects/
 
   <p>Angular.JS clone of the Reddit frontpage.</p>
 
-  <span class='githubBtn'><a href='https://github.com/derzorngottes/angular-reddit-frontpage'>source code</a></span>
+  <span class='githubBtn'><a href='https://github.com/derzorngottes/angular-reddit-frontpage'><img src='../assets/githublogo.png' height='20'> source code</a></span>
 </div>
 
 <div class='projectDiv'>
@@ -62,7 +62,7 @@ permalink: /projects/
 
   <p>A food order interface implemented in jQuery</p>
 
-  <span class='githubBtn'><a href='https://github.com/derzorngottes/pioneer_delivery'>source code</a></span>
+  <span class='githubBtn'><a href='https://github.com/derzorngottes/pioneer_delivery'><img src='../assets/githublogo.png' height='20'> source code</a></span>
 </div>
 
 <div class='projectDiv'>
