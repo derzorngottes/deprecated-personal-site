@@ -1,6 +1,11 @@
-## derzorngottes // the unquestioning thought ##
+#### derzorngottes // the unquestioning thought ####
 
-This is my personal website and blog, a repository for critical
-inquiry on the subjects of technology, arts, Seattle, etc.
+##### Deployed: [www.derzorngottes.com](www.derzorngottes.com) #####
 
-Implemented with jekyll.
+A personal website featuring a blog, about page, CV, and project portfolio.
+
+A place to collect my thoughts on programming and its interfaces with arts and the natural world, as well as to showcase my recent projects, both completed and under development.
+
+##### Technology #####
+
+I used Jekyll to build out the site, which meant I had to learn Liquid templating. It was great.
